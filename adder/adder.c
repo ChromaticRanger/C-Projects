@@ -12,8 +12,7 @@ int main()
     printf("Please enter the second number: \n");
     scanf("%F", &second);
 
-    double add(double x, double y)
-    {
+    double add(double x, double y) {
         return x + y;
     }
 
